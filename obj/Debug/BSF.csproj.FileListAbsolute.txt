@@ -1,0 +1,7 @@
+D:\visual studio\BSF\bin\Debug\BSF.exe.config
+D:\visual studio\BSF\bin\Debug\BSF.exe
+D:\visual studio\BSF\bin\Debug\BSF.pdb
+D:\visual studio\BSF\obj\Debug\BSF.csprojAssemblyReference.cache
+D:\visual studio\BSF\obj\Debug\BSF.csproj.CoreCompileInputs.cache
+D:\visual studio\BSF\obj\Debug\BSF.exe
+D:\visual studio\BSF\obj\Debug\BSF.pdb
